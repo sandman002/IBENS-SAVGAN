@@ -7,6 +7,6 @@ The work contributes by making use of Nystrom-based approximation of 3D self-att
 We are able to generate videos of "Tumour-on-Chip" data where we can see T-cells interacting with Cancer cells.
 Additionally, we use animated single digit MNIST (MMNIST') dataset for evaluation. We method performs much better compared to TGAN2.
 
-A video presentation can be found [here](https://youtu.be/4D8N-qr9WSA)
+A video presentation can be found [here](https://youtu.be/4D8N-qr9WSA).
 
 
