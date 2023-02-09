@@ -1,5 +1,6 @@
 # IBENS-SAVGAN
-Self Attention based Video Generative Adversarial Network
+##SAVGAN:-**S**elf **A**ttention based **V**ideo **G**enerative **A**dversarial **N**etwork
+
 This project corresponds to the paper acceted at ISBI 2022 titled [SAVGAN: Self-Attention Based Generation of Tumour on Chip Videos](https://ieeexplore.ieee.org/document/9761518).
 The work contributes by making use of Nystrom-based approximation of 3D self-attention. This greatly reduces the complexity of computing the Self-Attention matrix for huge matrices often encountered when performing 3D CNN in context of video processing.
 
