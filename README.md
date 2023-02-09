@@ -10,3 +10,4 @@ Additionally, we use animated single digit MNIST (MMNIST') dataset for evaluatio
 A video presentation can be found [here](https://youtu.be/4D8N-qr9WSA).
 
 
+![Alt text](./slides/slide_snapshot.png)
